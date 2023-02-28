@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+.piano_kit_container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+}
+
+.basic-piano-ele {
+  border: 1px solid black;
+  position: relative;
+}
+
+.secondary-piano-ele {
+  width: 50%;
+  height: 50%;
+  background-color: black;
+  position: absolute;
+  left: 75%;
+}
+
+.play {
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
