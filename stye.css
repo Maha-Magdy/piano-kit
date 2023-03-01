@@ -23,6 +23,12 @@ body {
   left: 75%;
 }
 
+.basic-piano-ele,
+.secondary-piano-ele {
+  transition: all 0.05s;
+}
+
 .play {
   box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+  border: 1px solid black;
 }
