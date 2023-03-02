@@ -28,6 +28,14 @@ The list of keys and matching sounds:
 
 - O => LA#
 
+## Author
+
+👤 **Maha Magdy**
+
+- GitHub: [Maha-Magdy](https://github.com/Maha-Magdy)
+- Twitter: [@Maha_M_Abdelaal](https://twitter.com/Maha_M_Abdelaal)
+- LinkedIn: [Maha Magdy](https://www.linkedin.com/in/maha-magdy-abdelaal/)
+
 <!-- ![screenshot](./app_screenshot_1.PNG)
   
 This application was built with React.
@@ -64,13 +72,6 @@ src/App.tsx
 ```
 and change the value of the props name, and bmiScore that belong to ScoreVisualization component then save.
 
-## Author
-
-👤 **Maha Magdy**
-
-- GitHub: [Maha-Magdy](https://github.com/Maha-Magdy)
-- Twitter: [@Maha_M_Abdelaal](https://twitter.com/Maha_M_Abdelaal)
-- LinkedIn: [Maha Magdy](https://www.linkedin.com/in/maha-magdy-abdelaal/)
 
 ## 🤝 Contributing
 
