@@ -36,6 +36,10 @@ The list of keys and matching sounds:
 - Twitter: [@Maha_M_Abdelaal](https://twitter.com/Maha_M_Abdelaal)
 - LinkedIn: [Maha Magdy](https://www.linkedin.com/in/maha-magdy-abdelaal/)
 
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
+
 <!-- ![screenshot](./app_screenshot_1.PNG)
   
 This application was built with React.
@@ -83,8 +87,6 @@ Feel free to check the [issues page](https://github.com/Maha-Magdy/score-visuali
 
 Give a ⭐️ if you like this project!
 
-## 📝 License
-
-This project is [MIT](./LICENSE) lice -->
+ -->
 
 Sound Effects from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=101774">Pixabay</a>
