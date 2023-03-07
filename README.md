@@ -30,7 +30,7 @@ The list of keys and matching sounds:
 - O => LA#
 
 A screenshot of the Piano kit is presented below:
-![screenshot](./app_screenshot_1.PNG)
+![screenshot](./app_screenshot_1.png)
 
 ## Built With
 
