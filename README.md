@@ -1,8 +1,9 @@
-# Piano Kit
+# PIANO KIT
 
 ## About
 
-A "Piano Kit" is a simple piano board containing the basic keys each of them represented by an equivalent key in the keyboard which will allow the user to play some piano sounds.
+A "Piano Kit" is a simple piano board containing the essential keys. Each of them is represented by an equivalent key in the keyboard, which allows the user to play some piano sounds.
+
 The list of keys and matching sounds:
 - D => DO
 
@@ -28,6 +29,13 @@ The list of keys and matching sounds:
 
 - O => LA#
 
+A screenshot of the Piano kit is presented below:
+![screenshot](./app_screenshot_1.PNG)
+
+## Built With
+
+- HTML, CSS, Javascript.
+- VisualStudio Code, Git, & GitHub.
 ## Author
 
 👤 **Maha Magdy**
@@ -35,6 +43,16 @@ The list of keys and matching sounds:
 - GitHub: [Maha-Magdy](https://github.com/Maha-Magdy)
 - Twitter: [@Maha_M_Abdelaal](https://twitter.com/Maha_M_Abdelaal)
 - LinkedIn: [Maha Magdy](https://www.linkedin.com/in/maha-magdy-abdelaal/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Maha-Magdy/piano-kit/issues).
+
+## Acknowledgments
+
+Sound Effects from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=101774">Pixabay</a>
 
 ## 📝 License
 
@@ -88,5 +106,3 @@ Feel free to check the [issues page](https://github.com/Maha-Magdy/score-visuali
 Give a ⭐️ if you like this project!
 
  -->
-
-Sound Effects from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=music&amp;utm_content=101774">Pixabay</a>
