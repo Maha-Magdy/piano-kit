@@ -29,7 +29,7 @@ The list of keys and matching sounds:
 
 - O => LA#
 
-PS: After being inspired by Wes Bos' JAVASCRIPT30 course, I decided to follow it and build the Piano kit project to keep my hands dirty with JavaScript.
+*PS: After being inspired by Wes Bos' JAVASCRIPT30 course, I decided to follow it and build the Piano kit project to keep my hands dirty with JavaScript.*
 
 A screenshot of the Piano kit is presented below:
 
