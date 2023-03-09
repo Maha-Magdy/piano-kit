@@ -44,6 +44,9 @@ A screenshot of the Piano kit is presented below:
 
 [Live Demo Link](https://maha-magdy.github.io/piano-kit/)
 
+## Video Demo
+[Video Demo Link]( https://www.loom.com/share/198e309fa6ec43daa5056024c87b86af )
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps. you only need a computer with a browser installed, and follow these steps:
