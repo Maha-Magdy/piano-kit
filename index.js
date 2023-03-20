@@ -11,7 +11,6 @@ window.addEventListener('keydown', playSound);
 
 const removeTransitionClass = (e) => {
     if (e.propertyName !== 'box-shadow') return;
-    console.log(e.target);
     e.target.classList.remove('play');
 }
 
